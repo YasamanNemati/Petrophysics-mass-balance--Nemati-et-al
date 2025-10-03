@@ -2,7 +2,7 @@ Petrophysics and Mass Balance Integration – Nemati et al.
 
 This repository contains the codes, datasets, and supporting materials used in the article:
 
-Nemati, Y., Dupuis, J.C., Giroux, B., Smith, R. 2025. (in review). Petrophysics and mass balance integration for alteration detection in orogenic gold exploration.
+Nemati, Y., Dupuis, J.C., Quesnel, B., Giroux, B., Smith, R., Beaudoin, G. 2025. (in review). Petrophysics and mass balance integration for alteration detection in orogenic gold exploration.
 
 Repository Contents
 
@@ -20,8 +20,7 @@ Bootstrapped komatiite dataset
 
 Data Availability
 
-The petrophysical logging data used in this study will be deposited on the Metal Earth Data Portal
- following the author’s graduation.
+The petrophysical logging data used in this study will be deposited on the Metal Earth Data Portal following the author’s graduation.
 
 For transparency and reproducibility, representative processed datasets, together with codes and geochemical data (including bootstrapped komatiite datasets with confidence intervals), are provided here.
 
@@ -40,8 +39,8 @@ Citation
 
 If you use these codes or datasets, please cite the article once published:
 
-Nemati, Y., Dupuis, J.C., Giroux, B., Smith, R. 2025.(in review).
-Petrophysics and mass balance integration for alteration detection in orogenic gold exploration. Geochemistry, Geophysics, Geosystems.
+Nemati, Y., Dupuis, J.C., Quesnel, B., Giroux, B., Smith, R., Beaudoin, G. 2025.(in review).
+Petrophysics and mass balance integration for alteration detection in orogenic gold exploration. Journal of Applied Geophysics.
 
 Contact
 
